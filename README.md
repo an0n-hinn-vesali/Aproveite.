@@ -1,3 +1,5 @@
 # Aproveite.
 ETAPA 1:
 - [Sistemas Digitais: Princípios e Aplicações 12 Edição](https://download1530.mediafire.com/0clenmis7bwg0vaMhlNPRl5aTvP2ANGnAMHFqDbHgmDGuBitCzAGwH9sR5bi9_MfuF4M7ye-cN_7maJZstXLW508hmEE8uRk4ToNmw77XWWSYc5BfEn0RdhpEKqBCmid2uI-TlBc5W1Rryl2gKMIr0Ogyah7kRIMc4n5EyKbZfeHwcguKw/ecqtfr7p9tdc7k1/sistemas-digitais-principios-e-aplicaoes-12+edi%C3%A7%C3%A3o.pdf)
+- [Organização estruturada de computadores 6 Edição](https://download1531.mediafire.com/qtnx3kk1jvdg2gzaR3MVWXXRRjpWIREt2CpgyRWMPacCAPvR_0crg9UKQb9DpAuHATo6unjPIafpZMfS7hDawubuyCVxXjt_5kFkUbuYqbHWTrn0h-DqWTiCsZsVoQv2MiK17FVHBntBvZiNnBQJvHtUeoLuh2aIrVynfbKJmvcti6z5Lw/a1jhltuk2pjvzco/Organiza%C3%A7%C3%A3o+estruturada+de+computadores+6+Edi%C3%A7%C3%A3o.pdf)
+- [Sistemas Digitais: Fundamentos Aplicações 9 Edição](https://download1346.mediafire.com/jdph03ban4ggp8qyXVZEoSgEEc7HZ578GANfvVUY3ZcG83kkZLOHekkhExbmDt4Xbh40M5lIkL3aTsYeQUsZ3emWyMFerUwd6P8AnjdMIyhaxA63m7_BiwWyRrH0Gcf1MW0ibmKQ03ANYyEE_6HexyDtI5if7UzxWmccn6tW6duRN-6lSw/p368kfs3jwqgmwx/Sistemas+Digitais+Fundamentos+Aplica%C3%A7%C3%B5es+9+Edi%C3%A7%C3%A3o.pdf)
