@@ -5,7 +5,7 @@ ETAPA 1:
 
 - [Sistemas Digitais: Princípios e Aplicações 12 Edição](https://download1530.mediafire.com/0clenmis7bwg0vaMhlNPRl5aTvP2ANGnAMHFqDbHgmDGuBitCzAGwH9sR5bi9_MfuF4M7ye-cN_7maJZstXLW508hmEE8uRk4ToNmw77XWWSYc5BfEn0RdhpEKqBCmid2uI-TlBc5W1Rryl2gKMIr0Ogyah7kRIMc4n5EyKbZfeHwcguKw/ecqtfr7p9tdc7k1/sistemas-digitais-principios-e-aplicaoes-12+edi%C3%A7%C3%A3o.pdf)
 - [Organização estruturada de computadores 6 Edição](https://download1531.mediafire.com/qtnx3kk1jvdg2gzaR3MVWXXRRjpWIREt2CpgyRWMPacCAPvR_0crg9UKQb9DpAuHATo6unjPIafpZMfS7hDawubuyCVxXjt_5kFkUbuYqbHWTrn0h-DqWTiCsZsVoQv2MiK17FVHBntBvZiNnBQJvHtUeoLuh2aIrVynfbKJmvcti6z5Lw/a1jhltuk2pjvzco/Organiza%C3%A7%C3%A3o+estruturada+de+computadores+6+Edi%C3%A7%C3%A3o.pdf)
-- [Sistemas Digitais: Fundamentos Aplicações 9 Edição](https://download1346.mediafire.com/jdph03ban4ggp8qyXVZEoSgEEc7HZ578GANfvVUY3ZcG83kkZLOHekkhExbmDt4Xbh40M5lIkL3aTsYeQUsZ3emWyMFerUwd6P8AnjdMIyhaxA63m7_BiwWyRrH0Gcf1MW0ibmKQ03ANYyEE_6HexyDtI5if7UzxWmccn6tW6duRN-6lSw/p368kfs3jwqgmwx/Sistemas+Digitais+Fundamentos+Aplica%C3%A7%C3%B5es+9+Edi%C3%A7%C3%A3o.pdf)
+- [Sistemas Digitais: Fundamentos Aplicações 9 Edição](https://download1346.mediafire.com/l5hkpwhprtrggJvPN_mG3ZiGLwHNxJ9P4zxb-InVXtRZCGz71MbTV-hdOBNbI8LNYkMWsa4srccEh_mp0LnR_wS_pxWzUMD8Cb21GWnJl3lwAy-GkD4NCXq1fzUWUaDOV8sgnHkh_V4zPFfDwOUHgOk4qbAuLXrCX70o2uEdMK3C-2dl3A/p368kfs3jwqgmwx/Sistemas+Digitais+Fundamentos+Aplica%C3%A7%C3%B5es+9+Edi%C3%A7%C3%A3o.pdf)
 
 \MATEMÁTICA DISCRETA:
 
@@ -15,7 +15,7 @@ ETAPA 1:
 
 \LINGUAGENS DE PROGRAMAÇÃO: > **Infelizmente, nessa seção a bibliografia está em inglês.**
 
-- [Concepts, Techniques, and Models of Computer Programming 2 Edição](https://download853.mediafire.com/wwr8aw06q6ogsj5pr2QdgIJvOuDpkVywwpa54L32yG58woTosbgREmIc0qsOqy1dETyGMKxpJZlMcUd8CkmQCQY78lTyvkB5LYIVNLVsPIJX4FKxeO3wTaqqEYxFuBfUErEb9Ij6ogQqx0Aw8Rog004xS0GgCz84-ccAZ5e2sosm7l9vrA/pcznt5fm15edme5/Concepts%2C+Techniques%2C+and+Models+of+Computer+Programming+2+Edi%C3%A7%C3%A3o.pdf)
+- [Concepts, Techniques, and Models of Computer Programming 2 Edição](https://download853.mediafire.com/gmojdtpdiivgJ0PLdi68R9owGLII4v0WHJHMCsfmVc2B8gGUndeR2cjFrV9VtXCekHsD6_cAcZ58JgPzuKojHsh5QrgSNjNl3nVp8G736tO15G2fD0NCyf0fB5YMS19UXGs4UG1MlcGaBBh5jSUsXkmVoU9Exyi2CeZXuJhFMXSjre2wlQ/pcznt5fm15edme5/Concepts%2C+Techniques%2C+and+Models+of+Computer+Programming+2+Edi%C3%A7%C3%A3o.pdf)
 - [Types and Programming Languages 3 Edição](https://download1582.mediafire.com/mq80ue83oxngssle9vVbOUEPtWMiwqYr-dkfOdMH_EC-CS-27YeSgVhvxfUR4fnlu4r5iCpx-K-FE654-lYLa8EP8gnhcYHjVpyksl8XhCEfWyKvjpyC_nBxdG0sLwvp2jnm1AVnrO3an-yzkhgu3AceqpyFCKaWhq9LKIhA-blN3ayHrA/vknqf55o5p4we0h/Types+and+Programming+Languages+3+Edi%C3%A7%C3%A3o.pdf)
 - [Programming Language Pragmatics 4 Edição](https://download1529.mediafire.com/ovhszwdx11xgHx2xO191ScSuk-7KpWgteblWCMN5R9wTFEZ_7QXbtLUVM_9x4wlo9Fg3cCtqdflugG4d3PwfdDVYf3Tnh6nTLiWIRa8aQydn5jgbV_wYGlNOxu8qNhuTXr_mDPkeA-aXdF0m_N_LVYd2Xz7Y3zjxPCEQzzvs2sVPUtrgew/lsny4u5wpkyczj1/Programming+Language+Pragmatics+4+Edi%C3%A7%C3%A3o.pdf)
 
