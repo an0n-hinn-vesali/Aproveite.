@@ -13,7 +13,7 @@ ETAPA 1:
 - [Fundamentos Matemáticos para a Ciência da Computação: Matemática Discreta e suas aplicações 2 Edição](https://download843.mediafire.com/ba9dukgxocwg-5difQ9EU_JDfjIz-KV--DNtl7WFDDgStpxZE8J_FQmX67OkF8H-4sXfwmo3Vt4aCaP1AkXkz1QnPGuCCJfc-i-KnypXi7Tn_IrSUUg7281rqemigk-D7s45aFme1xCh4gls2NwrxRJ_7eYwVpLQ1L10grMPOtF4-NosjQ/j8ge6ntjz1fi4wr/Fundamentos+Matem%C3%A1ticos+para+a+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+Matem%C3%A1tica+Discreta+e+suas+aplica%C3%A7%C3%B5es+7+edi%C3%A7%C3%A3o.pdf)
 - [Matemática Discreta: Uma Introdução 3 Edição](https://download1321.mediafire.com/8cppusns41ig1MGcC50QMlD0FbV4Xa-Ix8kKT2-n0UQIZ3mUO_1N5RxycfnI5XX_k0X_MdvurpnjAEwc3jEHOoy9gQvHEko_8AQkEc7V_yht1v6ikYZQxJPj6tjkA-ggwKiqSoDN7IuUZvQBTK_FRcwhF_HFzPCMCZBG0IBsvfHon6HJ4A/c2sq7w1v8thu7a0/Matem%C3%A1tica+Discreta+Uma+Introdu%C3%A7%C3%A3o+3+Edi%C3%A7%C3%A3o.pdf)
 
-\LINGUAGENS DE PROGRAMAÇÃO > **Infelizmente, nessa seção a bibliografia está em inglês.**:
+\LINGUAGENS DE PROGRAMAÇÃO: > **Infelizmente, nessa seção a bibliografia está em inglês.**
 
 - [Concepts, Techniques, and Models of Computer Programming 2 Edição](https://download853.mediafire.com/wwr8aw06q6ogsj5pr2QdgIJvOuDpkVywwpa54L32yG58woTosbgREmIc0qsOqy1dETyGMKxpJZlMcUd8CkmQCQY78lTyvkB5LYIVNLVsPIJX4FKxeO3wTaqqEYxFuBfUErEb9Ij6ogQqx0Aw8Rog004xS0GgCz84-ccAZ5e2sosm7l9vrA/pcznt5fm15edme5/Concepts%2C+Techniques%2C+and+Models+of+Computer+Programming+2+Edi%C3%A7%C3%A3o.pdf)
 - [Types and Programming Languages 3 Edição](https://download1582.mediafire.com/mq80ue83oxngssle9vVbOUEPtWMiwqYr-dkfOdMH_EC-CS-27YeSgVhvxfUR4fnlu4r5iCpx-K-FE654-lYLa8EP8gnhcYHjVpyksl8XhCEfWyKvjpyC_nBxdG0sLwvp2jnm1AVnrO3an-yzkhgu3AceqpyFCKaWhq9LKIhA-blN3ayHrA/vknqf55o5p4we0h/Types+and+Programming+Languages+3+Edi%C3%A7%C3%A3o.pdf)
